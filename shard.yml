@@ -1,0 +1,15 @@
+name: ip
+version: 0.1.0
+
+authors:
+  - er0k <er0k@er0k.net>
+
+targets:
+  ip:
+    main: src/ip.cr
+
+crystal: '>= 1.11.0-dev'
+
+dependencies:
+
+license: MIT
